@@ -7,4 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to the personal page of Solomon Fenton-Miller.
+I am a higher education professional at the University of Iowa where I currently work as the Graduate Program Coordinator in the Department of Political Science. I have two previous master's degrees in music composition and music theory.
+
+My current 
