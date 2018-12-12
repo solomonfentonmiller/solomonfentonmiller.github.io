@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Assistant"
 permalink: /teaching/eastern_michigan
 venue: "Eastern Michigan University, Department of Music and Dance"
-date: 2012
+date: 2012-08-01
 location: "Ypsilanti, MI"
 ---
 
