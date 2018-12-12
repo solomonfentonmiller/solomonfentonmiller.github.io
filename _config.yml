@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Solomon Fenton-Miller"
-title_separator          : "-"
+title_separator          : "|"
 name                     : # &name "Solomon Fenton-Miller"
 description              : &description "The personal website of Solomon Fenton-Miller."
 url                      : https://solomonfentonmiller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
