@@ -7,8 +7,8 @@ author_profile: true
 
 ## Graduate Teaching Assistant, University of Iowa
 ### _2014-15_
-Taught first-year aural skills to music students. Developed weekly lesson plans in
-conjunction with faculty. Tutored students outside of class.
+Taught fundamental aural skills to first-year music students. Developed weekly lesson plans in
+conjunction with faculty to complement lecture sessions. Tutored students outside of class.
 
 ## Adjunct Lecturer, Eastern Michigan University 
 ### _2012-13_
