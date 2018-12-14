@@ -5,11 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## University of Iowa
-### Graduate Teaching Assistant _2014-15_
+## Graduate Teaching Assistant, University of Iowa
+### _2014-15_
 
-## Eastern Michigan University
-### Adjunct Lecturer _2012-13_
+## Adjunct Lecturer, Eastern Michigan University 
+### _2012-13_
 
-## Eastern Michigan University
-### Graduate Teaching Assistant _2010-12_
+## Graduate Teaching Assistant, Eastern Michigan University
+### _2010-12_
