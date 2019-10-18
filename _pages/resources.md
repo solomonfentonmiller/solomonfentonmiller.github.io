@@ -17,5 +17,9 @@ author_profile: true
 ## Communities
 [The Fora](https://thefora.org/)  
 
-## Other
+## Campus Ecology
 [The Campus Ecologist](http://www.campusecologist.com/)  
+[International Community for Ecopsychology](http://www.ecopsychology.org/)  
+[Society for Human Ecology](https://societyforhumanecology.org/)  
+[Institute for Social Ecology](http://social-ecology.org/wp/)
+[Environment and Behavior](https://journals.sagepub.com/home/eab)  
