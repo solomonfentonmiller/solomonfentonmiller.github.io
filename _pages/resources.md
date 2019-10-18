@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Higher Education Resources"
 permalink: /resources/
 author_profile: true
