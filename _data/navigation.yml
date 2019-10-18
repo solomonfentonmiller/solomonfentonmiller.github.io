@@ -4,11 +4,11 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Higher Education Resources"
-    url: /resources/
-    
   - title: "Teaching"
     url: /teaching/    
     
   - title: "Music"
     url: /music/
+    
+  - title: "Higher Education Resources"
+    url: /resources/
