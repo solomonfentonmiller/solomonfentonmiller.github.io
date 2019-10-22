@@ -16,7 +16,7 @@ author_profile: true
 
 ## Communities
 [The Fora](https://thefora.org/)  
-[The Grade Cafe](https://www.thegradcafe.com/)
+[The Grad Cafe](https://www.thegradcafe.com/)
 
 ## Campus Ecology
 [The Campus Ecologist](http://www.campusecologist.com/)  
