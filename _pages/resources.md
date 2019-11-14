@@ -24,3 +24,6 @@ author_profile: true
 [Society for Human Ecology](https://societyforhumanecology.org/)  
 [Institute for Social Ecology](http://social-ecology.org/wp/)
 [Environment and Behavior](https://journals.sagepub.com/home/eab)  
+
+## Other
+[Jon Boeckenstedt's Admissions Weblog](https://jonboeckenstedt.wordpress.com/)  
