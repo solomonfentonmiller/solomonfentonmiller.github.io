@@ -27,3 +27,4 @@ author_profile: true
 
 ## Other
 [Jon Boeckenstedt's Admissions Weblog](https://jonboeckenstedt.wordpress.com/)  
+[Higher Ed Data Stories](https://highereddatastories.blogspot.com/)  
